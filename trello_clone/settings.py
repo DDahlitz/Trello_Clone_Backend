@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-#7y_0ll7_fid71_tp1n!k9_ok0wc2pg!c0-h4l4ru)6i%xk6=u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'pure-tor-82843.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'stark-dusk-04018.herokuapp.com']
 
 
 # Application definition
@@ -139,4 +139,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# https://pure-tor-82843.herokuapp.com/
+# https://stark-dusk-04018.herokuapp.com/ 
